@@ -1,0 +1,6 @@
+com\javahonk\services\IPersonService.class
+com\javahonk\services\PersonServiceImpl.class
+com\javahonk\dao\IPersonDAO.class
+com\javahonk\dao\PersonDAOImpl.class
+com\javahonk\controller\SpringMVCController.class
+com\javahonk\domain\Person.class
